@@ -96,4 +96,3 @@ streamlit run app.py
 - Add sentiment analysis for richer AI avatar responses
 - Support additional file formats (TXT, HTML)
   
-https://ai-avatar-9ul5z5wxjubkhennpmwaqf.streamlit.app/

@@ -4,7 +4,7 @@
 
 ## Demo Video
 
-[![Watch Demo](images/thumbnail.png)](images/ai_avatar_app_demo.mp4)
+[![Watch Demo](images/ai_avatar_app_demo.mp4)]
 
 
 

@@ -2,6 +2,10 @@
 
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20App-red?logo=streamlit)](https://ai-avatar-9ul5z5wxjubkhennpmwaqf.streamlit.app/)
 
+## Demo video
+
+[![Watch the demo](thumbnail.png)](images/ai_avatar_app_demo.mp4)
+
 
 This project demonstrates the **end-to-end application of Natural Language Processing (NLP)** and **web app development** to build an **AI-powered document understanding system**. The application extracts text from uploaded documents, performs **Named Entity Recognition (NER)**, and generates a structured summary that can be used for **AI avatars, storytelling systems, or intelligent assistants**.
 

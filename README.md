@@ -4,8 +4,6 @@
 
 ## Demo Video
 
-▶️ **[Click here to watch the demo](images/ai_avatar_app_demo.mp4)**
-
 [![Watch Demo](images/thumbnail.png)](images/ai_avatar_app_demo.mp4)
 
 

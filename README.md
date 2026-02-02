@@ -4,7 +4,7 @@
 
 ## Demo Video
 
-![Streamlit Demo](ai_avatar_appdemo.gif)
+![Streamlit Demo](images/ai_avatar_appdemo.gif)
 
 
 This project demonstrates the **end-to-end application of Natural Language Processing (NLP)** and **web app development** to build an **AI-powered document understanding system**. The application extracts text from uploaded documents, performs **Named Entity Recognition (NER)**, and generates a structured summary that can be used for **AI avatars, storytelling systems, or intelligent assistants**.

@@ -90,7 +90,7 @@ streamlit run app.py
 ```
 
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - Integrate transformer-based models (BERT) for advanced summarization
 - Add sentiment analysis for richer AI avatar responses
